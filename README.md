@@ -20,6 +20,6 @@ Realizing that the stock market is very volatile and virtually impossible to mod
 
 We used the Alpaca API to pull 120 months worth of stock history. From here, we cleaned the data, taking out any stocks with missing values during the observation period and ones with extreme outliers. This reduced data noise, allowing us to focus on good, strong stocks. 
 
-Our Random Forest model was trained using a Random Forest algorithm, with MLFlow to track the logs. Half of our model was training with the other half testing. This was primarily based on daily stock return. In our backtesting, based on the highest R^2 values, the top 5 performing models were loaded. This predicted returns, ranked them, and selected the top 25 stocks.
+Our Random Forest model was trained using a Random Forest algorithm, with MLFlow to track the logs. Half of our model was training with the other half testing. This was primarily based on daily stock return. In our backtesting, based on the highest predicted returns, top 25 stocks were selected for trading.
 
 From here, we calculated some evaluation metrics. This includes the daily and annual Sharpe Ratio, cumulative returns, and maximum drawdown. We compared it to the SPY benchmark, and logged these for visual in MLFlow. 
