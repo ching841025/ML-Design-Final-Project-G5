@@ -14,7 +14,7 @@
 
 ## PROJECT DESCRIPTION
 
-Which stock will bring someone the most returns? That's the million-dollar question that has stumped many generations. In today's world, Wall Street traders have developed an AI-derived algorithm known as High Frequency Trading (HFT) to quickly trade stocks based on patterns seen in the market today. This has changed the game, especially for people who don't buy into their services: they simply cannot keep up.
+Which stock will bring someone the most returns? That's the million-dollar question that has stumped many generations. In today's world, Wall Street traders have developed an AI-derived algorithm known as High Frequency Trading (HFT) to quickly trade stocks based on patterns seen in the market today. This has changed the game, especially for people who don't buy into their services; they simply cannot keep up.
 
 Realizing that the stock market is very volatile and virtually impossible to model, our group wanted to create a machine learning model that could predict the top stocks, allowing them to 'beat the market' without predicting the price point of the specific stock itself.
 
@@ -26,7 +26,7 @@ From here, we calculated some evaluation metrics. This includes the daily and an
 
 ## CODE RUNNING INSTRUCTIONS
 
-Due to GitHub's sizing constraints, we had to compress the data into a zipped file. To run this successfully, you will need ot download the whole repository, unzip the dataset, and make sure it is in the same folder as the python script. Next, you will install the packages using:
+Due to GitHub's sizing constraints, we had to compress the data into a zipped file. To run this successfully, you will need to download the whole repository, unzip the dataset, and make sure it is in the same folder as the python script. Next, you will install the packages using:
 #### pip install -r requirements
 Next, you will run the script using:
 #### python BANA7075_Final_Project_Data_Engineering_Rev0.py
