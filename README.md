@@ -30,3 +30,6 @@ Due to GitHub's sizing constraints, we had to compress the data into a zipped fi
 #### pip install -r requirements
 Next, you will run the script using:
 #### python BANA7075_Final_Project_Data_Engineering_Rev0.py
+
+For the updated 120 month portion of the code, the zipped file is too large to hard push to the repository using terminal. To download this data, go to the link below, download, unzip, and place into the project folder as before.
+https://mailuc-my.sharepoint.com/:u:/g/personal/faulknla_mail_uc_edu/ERBXK7iYtGhFgUg8sebcAwsBY-ID_xpo0enmC6C4m8g_Gw?
