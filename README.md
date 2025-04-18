@@ -23,3 +23,10 @@ We used the Alpaca API to pull 120 months worth of stock history. From here, we 
 Our Random Forest model was trained using a Random Forest algorithm, with MLFlow to track the logs. Half of our model was training with the other half testing. This was primarily based on daily stock return. In our backtesting, based on the highest predicted returns, top 25 stocks were selected for trading.
 
 From here, we calculated some evaluation metrics. This includes the daily and annual Sharpe Ratio, cumulative returns, and maximum drawdown. We compared it to the SPY benchmark, and logged these for visual in MLFlow. 
+
+## CODE RUNNING INSTRUCTIONS
+
+Due to GitHub's sizing constraints, we had to compress the data into a zipped file. To run this successfully, you will need ot download the whole repository, unzip the dataset, and make sure it is in the same folder as the python script. Next, you will install the packages using:
+#### pip install -r requirements
+Next, you will run the script using:
+#### python BANA7075_Final_Project_Data_Engineering_Rev0.py
