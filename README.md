@@ -29,10 +29,10 @@ From here, we calculated some evaluation metrics. This includes the daily and an
 Due to GitHub's sizing constraints, we had to compress the data into a zipped file. To run the first version (18-month) successfully, you will need to download the whole repository, unzip the dataset, and make sure it is in the same folder as the python script. Next, you will install the packages using:
 #### pip install -r requirements
 Next, you will run the script using:
-#### python BANA7075_Final_Project_Data_Engineering_Rev0.py
+#### Data_engineering.py
 
-For the updated 120 month portion of the code, we split it up into sections to accommodate for the size. Download all of the files in the repository, ensure they're in the project folder, and the code will stitch them together automatically. The updated script will be ran by first installing the packages using:
+For the updated 120 month portion of the code, we split it up into sections to accommodate for the size. Download all of the files in the repository, ensure they're in the project folder, and the code will stitch them together automatically. After processing of the raw data by cleaning data and adding new features, it is saved as clean_data.parquet
 
-#### pip install -r requirements
-Next, you will run the script using:
-#### python BANA7075_Final_Project_MVP_Rev3.py
+#### clean_data.parquet/Model_development.py
+
+Load the clean_data with Model_development.py to train ML model and evaluate the stock selection at different time of the year.
