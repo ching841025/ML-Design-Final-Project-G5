@@ -9,8 +9,8 @@ import joblib
 from datetime import date
 data_count = pd.read_parquet("clean_data.parquet")
 
-traning_start = date(2020, 1, 1)
-traning_end = date(2020, 3, 31)
+traning_start = date(2019, 1, 1)
+traning_end = date(2019, 3, 31)
 
 test_start = date(2025, 1, 1)
 test_end = date(2025, 3, 31)
@@ -150,6 +150,38 @@ print(f"Maximum Drawdown: {max_drawdown_percent:.2f}%")
 
 # Compute SPY cumulative returns
 spy_cumulative_return = (1 + daily_returns["RET_SPY"] / 100).cumprod()
+
+import mlflow
+import mlflow.sklearn
+# Set experiment name
+mlflow.set_tracking_uri("file://" + os.path.abspath("mlruns"))
+mlflow.set_experiment("stock selection")
+# --- Prepare metrics ---
+metrics = {
+    "sharpe_daily": sharpe_daily,
+    "sharpe_annual": sharpe_annual,
+    "max_drawdown_percent": max_drawdown_percent,
+}
+
+run_name = "RandomF"
+
+# --- Start MLflow run context ---
+with mlflow.start_run(run_name=run_name) as run:
+
+    # (Optional) Log metadata or config used in backtest
+    mlflow.log_params({
+        "top_n": 25,
+        "model_type": "RandomForest",
+        "feature_set": "base_v1"
+    })
+
+    # Log backtest performance metrics
+    mlflow.log_metrics(metrics)
+
+    # Save and log results table
+    result_csv = "backtest_top25_with_sharpe.csv"
+    daily_returns.to_csv(result_csv)
+    mlflow.log_artifact(result_csv)
 
 import matplotlib.pyplot as plt
 
