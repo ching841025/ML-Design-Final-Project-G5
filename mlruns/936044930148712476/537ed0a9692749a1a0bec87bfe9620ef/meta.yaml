@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/537ed0a9692749a1a0bec87bfe9620ef/artifacts
+end_time: 1745436182524
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: 537ed0a9692749a1a0bec87bfe9620ef
+run_name: RF_PLUG
+run_uuid: 537ed0a9692749a1a0bec87bfe9620ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436180384
+status: 3
+tags: []
+user_id: tan4wh

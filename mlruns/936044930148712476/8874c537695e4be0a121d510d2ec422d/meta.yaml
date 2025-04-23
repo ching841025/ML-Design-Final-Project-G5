@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/8874c537695e4be0a121d510d2ec422d/artifacts
+end_time: 1745436486716
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: 8874c537695e4be0a121d510d2ec422d
+run_name: RF_VCIT
+run_uuid: 8874c537695e4be0a121d510d2ec422d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436484315
+status: 3
+tags: []
+user_id: tan4wh

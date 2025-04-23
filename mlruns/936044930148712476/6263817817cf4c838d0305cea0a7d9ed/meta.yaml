@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/6263817817cf4c838d0305cea0a7d9ed/artifacts
+end_time: 1745435658785
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: 6263817817cf4c838d0305cea0a7d9ed
+run_name: RF_FWONK
+run_uuid: 6263817817cf4c838d0305cea0a7d9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745435656643
+status: 3
+tags: []
+user_id: tan4wh

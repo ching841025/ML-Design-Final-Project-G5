@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/d4473ed3c9ba4bb0a5da43d88755b280/artifacts
+end_time: 1745436314280
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: d4473ed3c9ba4bb0a5da43d88755b280
+run_name: RF_SINA
+run_uuid: d4473ed3c9ba4bb0a5da43d88755b280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436312058
+status: 3
+tags: []
+user_id: tan4wh

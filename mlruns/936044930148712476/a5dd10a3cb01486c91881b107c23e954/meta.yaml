@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/a5dd10a3cb01486c91881b107c23e954/artifacts
+end_time: 1745435493247
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: a5dd10a3cb01486c91881b107c23e954
+run_name: RF_CSOD
+run_uuid: a5dd10a3cb01486c91881b107c23e954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745435491058
+status: 3
+tags: []
+user_id: tan4wh

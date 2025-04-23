@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/d4467012a15f4c73baa178a41eed4de7/artifacts
+end_time: 1745436084924
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: d4467012a15f4c73baa178a41eed4de7
+run_name: RF_NYMT
+run_uuid: d4467012a15f4c73baa178a41eed4de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436082841
+status: 3
+tags: []
+user_id: tan4wh

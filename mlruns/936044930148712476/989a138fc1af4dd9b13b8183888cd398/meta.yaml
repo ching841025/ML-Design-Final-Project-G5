@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/989a138fc1af4dd9b13b8183888cd398/artifacts
+end_time: 1745436433523
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: 989a138fc1af4dd9b13b8183888cd398
+run_name: RF_TRUE
+run_uuid: 989a138fc1af4dd9b13b8183888cd398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436431490
+status: 3
+tags: []
+user_id: tan4wh

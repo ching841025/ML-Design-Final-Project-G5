@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/44fe8e74ce54437aa8934333099ef742/artifacts
+end_time: 1745435380814
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: 44fe8e74ce54437aa8934333099ef742
+run_name: RF_CARA
+run_uuid: 44fe8e74ce54437aa8934333099ef742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745435378500
+status: 3
+tags: []
+user_id: tan4wh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/abfbd051d6f243db8016057886c0e627/artifacts
+end_time: 1745436387516
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: abfbd051d6f243db8016057886c0e627
+run_name: RF_TCOM
+run_uuid: abfbd051d6f243db8016057886c0e627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436385261
+status: 3
+tags: []
+user_id: tan4wh

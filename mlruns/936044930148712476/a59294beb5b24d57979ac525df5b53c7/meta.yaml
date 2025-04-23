@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/a59294beb5b24d57979ac525df5b53c7/artifacts
+end_time: 1745436025519
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: a59294beb5b24d57979ac525df5b53c7
+run_name: RF_NBIX
+run_uuid: a59294beb5b24d57979ac525df5b53c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436023248
+status: 3
+tags: []
+user_id: tan4wh

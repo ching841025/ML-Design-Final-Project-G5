@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/e2057beaadc94f14b4cdf0467aab612c/artifacts
+end_time: 1745435475930
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: e2057beaadc94f14b4cdf0467aab612c
+run_name: RF_CROX
+run_uuid: e2057beaadc94f14b4cdf0467aab612c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745435473877
+status: 3
+tags: []
+user_id: tan4wh

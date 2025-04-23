@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/3c71624dbfeb4a5da5e91d271413aeab/artifacts
+end_time: 1745435538386
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: 3c71624dbfeb4a5da5e91d271413aeab
+run_name: RF_DVAX
+run_uuid: 3c71624dbfeb4a5da5e91d271413aeab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745435536251
+status: 3
+tags: []
+user_id: tan4wh

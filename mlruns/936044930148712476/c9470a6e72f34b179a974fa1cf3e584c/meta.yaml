@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/c9470a6e72f34b179a974fa1cf3e584c/artifacts
+end_time: 1745435426360
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: c9470a6e72f34b179a974fa1cf3e584c
+run_name: RF_CHRS
+run_uuid: c9470a6e72f34b179a974fa1cf3e584c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745435424290
+status: 3
+tags: []
+user_id: tan4wh

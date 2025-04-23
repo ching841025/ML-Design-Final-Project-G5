@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tan4wh/JupyterPython/BANA7075/final_project/ML-Design-Final-Project-G5/mlruns/936044930148712476/40e4440fa90c42119acde84ebee5cd83/artifacts
+end_time: 1745436202573
+entry_point_name: ''
+experiment_id: '936044930148712476'
+lifecycle_stage: active
+run_id: 40e4440fa90c42119acde84ebee5cd83
+run_name: RF_PTEN
+run_uuid: 40e4440fa90c42119acde84ebee5cd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745436200172
+status: 3
+tags: []
+user_id: tan4wh
