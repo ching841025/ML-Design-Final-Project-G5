@@ -35,4 +35,8 @@ For the updated 120 month portion of the code, we split it up into sections to a
 
 #### clean_data.parquet/Model_development.py
 
-Load the clean_data with Model_development.py to train ML model and evaluate the stock selection at different time of the year.
+Load the clean_data with Model_development.py to train ML model and evaluate the stock selection at different time of the year.Model_deployment.ipynb
+
+#### Model_deployment.ipynb
+
+Logging all the model in local folder for deployment by fastapi_streamlit.py
